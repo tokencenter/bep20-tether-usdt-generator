@@ -5,7 +5,7 @@
                 <b-card bg-variant="light" class="mb-4">
                     <h3 class="font-weight-light">BEP20 Token Generator</h3>
                     <p class="font-weight-light">
-                        Create your own BEP20 Smart Contract without coding. BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
+                        Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Token Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.
                     </p>
                     <hr class="my-4">
                     <h6 class="font-weight-light">The BEP20 Standard</h6>

@@ -1,16 +1,16 @@
 ---
 component: Home
-title: BEP20 Token Generator | Create BEP20 Token for FREE
-description: Create your own BEP20 Smart Contract without coding. BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
+title: Create BEP20 Token for FREE | BEP20 Token Generator on Binance Smart Chain
+description: Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Token Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.
 meta:
     - property: twitter:title
-      content: BEP20 Token Generator | Create BEP20 Token for FREE
+      content: Create BEP20 Token for FREE | BEP20 Token Generator on Binance Smart Chain
     - property: og:title
-      content: BEP20 Token Generator | Create BEP20 Token for FREE
+      content: Create BEP20 Token for FREE | BEP20 Token Generator on Binance Smart Chain
     - property: twitter:description
-      content: Create your own BEP20 Smart Contract without coding. BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
+      content: Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Token Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.
     - property: og:description
-      content: Create your own BEP20 Smart Contract without coding. BEP20 Generator is the easiest and fastest way to create your own BEP20 token on the Binance Smart Chain network. No coding skills are required.
+      content: Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Token Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.
     - property: og:url
       content: https://tokencenter.github.io/bep20-generator/
 ---
