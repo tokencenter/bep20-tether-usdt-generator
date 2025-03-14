@@ -17,11 +17,19 @@ meta:
 
 # BEP20 Token Generator - DAPP
 
-Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token.
+Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Token Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.
+
+## Features
+
+- **Free**: Create your BEP20 token without any cost.
+- **Safe**: The safest way to create your own BEP20 token.
+- **Easy**: No coding skills required.
+- **Fast**: Deploy your token in less than a minute.
+- **Customizable**: Create Standard, Capped, Mintable, Burnable BEP20 Tokens.
 
 ## Try it
 
-https://tokencenter.github.io/bep20-generator/
+[Create your BEP20 Token now](https://tokencenter.github.io/bep20-generator/)
 
 ## License
 
