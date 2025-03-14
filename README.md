@@ -1,14 +1,35 @@
-# BEP20 Token Generator
+---
+component: Home
+title: Create BEP20 Token for FREE | BEP20 Token Generator on Binance Smart Chain
+description: Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Token Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.
+meta:
+    - property: twitter:title
+      content: Create BEP20 Token for FREE | BEP20 Token Generator on Binance Smart Chain
+    - property: og:title
+      content: Create BEP20 Token for FREE | BEP20 Token Generator on Binance Smart Chain
+    - property: twitter:description
+      content: Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Token Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.
+    - property: og:description
+      content: Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Token Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.
+    - property: og:url
+      content: https://tokencenter.github.io/bep20-generator/
+---
 
-[![CI](https://github.com/tokencenter/bep20-generator/workflows/CI/badge.svg?branch=master)](https://github.com/tokencenter/bep20-generator/actions/)
-[![Coverage Status](https://coveralls.io/repos/github/tokencenter/bep20-generator/badge.svg?branch=master)](https://coveralls.io/github/tokencenter/bep20-generator?branch=master)
-[![MIT licensed](https://img.shields.io/github/license/tokencenter/bep20-generator.svg)](https://github.com/tokencenter/bep20-generator/blob/master/LICENSE)
+# BEP20 Token Generator - DAPP
 
-The new Smart Contract Generator for BEP20 Token.
+Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Token Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.
+
+## Features
+
+- **Free**: Create your BEP20 token without any cost.
+- **Safe**: The safest way to create your own BEP20 token.
+- **Easy**: No coding skills required.
+- **Fast**: Deploy your token in less than a minute.
+- **Customizable**: Create Standard, Capped, Mintable, Burnable BEP20 Tokens.
 
 ## Try it
 
-[https://tokencenter.github.io/bep20-generator](https://tokencenter.github.io/bep20-generator)
+[Create your BEP20 Token now](https://tokencenter.github.io/bep20-generator/)
 
 ## License
 
