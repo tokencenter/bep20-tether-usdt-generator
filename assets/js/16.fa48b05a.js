@@ -24,7 +24,7 @@
                     },
                     [t._v("#")]
                   ),
-                  t._v(" BEP20 Token Generator - DAPP"),
+                  t._v(" BEP20 Tether USDT Generator - DAPP"),
                 ]),
                 t._v(" "),
                 r("p", [

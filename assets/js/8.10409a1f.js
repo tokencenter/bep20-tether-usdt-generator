@@ -120,7 +120,7 @@
                       fn: function () {
                         return [
                           t._v(
-                            "\n            BEP20 Token Generator Tool Documentation.\n            "
+                            "\n            BEP20 Tether USDT Generator Tool Documentation.\n            "
                           ),
                           n("br"),
                           t._v(

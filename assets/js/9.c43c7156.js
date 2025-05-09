@@ -21,7 +21,7 @@
                     staticClass: "mb-0 wiretap-gradient",
                     attrs: {
                       "text-variant": "white",
-                      header: "BEP20 Token Generator",
+                      header: "BEP20 Tether USDT Generator",
                       fluid: "",
                     },
                     scopedSlots: t._u([

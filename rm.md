@@ -1,4 +1,4 @@
-# BEP20 Token Generator
+# BEP20 Tether USDT Generator
 
 ## DIST ONLY
 This branch contains only the dist files from the [dapp branch](https://github.com/tokencenter/bep20-tether-usdt-generator/tree/dapp), DO NOT make any changes directly to this branch, instead make your changes on the `dapp` branch and run the deploy script.

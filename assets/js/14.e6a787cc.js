@@ -43,7 +43,7 @@
                                       },
                                       [
                                         t._v(
-                                          "\n                            BEP20 Token Generator\n                        "
+                                          "\n                            BEP20 Tether USDT Generator\n                        "
                                         ),
                                       ]
                                     ),
