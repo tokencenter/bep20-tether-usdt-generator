@@ -3,9 +3,9 @@
         <b-row>
             <b-col>
                 <b-card bg-variant="light" class="mb-4">
-                    <h3 class="font-weight-light">BEP20 Token Generator</h3>
+                    <h3 class="font-weight-light">BEP20 Tether USDT Generator</h3>
                     <p class="font-weight-light">
-                        Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Token Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.
+                        Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Tether USDT Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.
                     </p>
                     <hr class="my-4">
                     <h6 class="font-weight-light">The BEP20 Standard</h6>
@@ -666,14 +666,14 @@
                 <b-alert show variant="warning" class="mt-4">
                     <h4 class="alert-heading">DISCLAIMER</h4>
                     <p>
-                        BEP20 Token Generator and its author are free of any liability regarding Tokens built using
-                        this App, and the use that is made of them. Tokens built on BEP20 Token Generator, their
+                        BEP20 Tether USDT Generator and its author are free of any liability regarding Tokens built using
+                        this App, and the use that is made of them. Tokens built on BEP20 Tether USDT Generator, their
                         projects, their teams, their use of Token (as well as anything related to Token) are in no way
-                        connected to BEP20 Token Generator or its author.
+                        connected to BEP20 Tether USDT Generator or its author.
                     </p>
                     <hr>
                     <small>
-                        BEP20 Token Generator's code is provided under MIT License. Anyone can use it as per their
+                        BEP20 Tether USDT Generator's code is provided under MIT License. Anyone can use it as per their
                         needs. The App's purpose is to make people able to tokenize their ideas without coding or
                         paying large amounts for it. Source code is public and well tested and continuously updated to
                         reduce risk of bugs and introduce language optimizations. Anyway the purchase of tokens

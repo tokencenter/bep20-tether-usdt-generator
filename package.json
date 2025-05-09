@@ -1,5 +1,5 @@
 {
-  "title": "BEP20 Token Generator",
+  "title": "BEP20 Tether USDT Generator",
   "name": "bep20-tether-usdt-generator",
   "version": "1.0.0",
   "description": "Easily deploy Smart Contract for a Standard, Capped, Mintable, Burnable BEP20 Token.",

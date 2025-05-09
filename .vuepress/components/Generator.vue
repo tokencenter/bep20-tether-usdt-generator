@@ -355,7 +355,7 @@
                                                         :class="{'is-invalid': errors.length > 0}">
                                                     <p>
                                                         I have read, understood and agreed to
-                                                        BEP20 Token Generator's
+                                                        BEP20 Tether USDT Generator's
                                                         <u v-b-modal.modal-terms>Terms of Use</u>.
                                                     </p>
                                                 </b-form-checkbox>
@@ -377,7 +377,7 @@
                                                     <b-icon-info-circle v-b-popover.v-warning.hover.top="
                                                         'Commission will be transferred directly to us through the ' +
                                                         'BSC network as part of your payment. ' +
-                                                        'Commission will support BEP20 Token Generator to keep it ' +
+                                                        'Commission will support BEP20 Tether USDT Generator to keep it ' +
                                                         'safe, running and constantly updated.'">
                                                         </b-icon-info-circle>
                                                 </span>

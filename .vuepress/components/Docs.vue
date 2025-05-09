@@ -5,7 +5,7 @@
                      class="mb-0 flickr-gradient"
                      fluid>
             <template #lead>
-                BEP20 Token Generator Tool Documentation.
+                BEP20 Tether USDT Generator Tool Documentation.
                 <br>
                 Discover more details about different BEP20 Token Types, ABI, source code and analysis report.
             </template>

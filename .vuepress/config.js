@@ -1,7 +1,7 @@
 const vars = require('./.env.json');
 
 module.exports = {
-  description: 'Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Token Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.',
+  description: 'Create your own BEP20 token and smart contract for free on the Binance Smart Chain. BEP20 Tether USDT Generator is the safest and easiest way to create your own BEP20 token without coding skills. Fast, secure, and reliable.',
   base: '/bep20-tether-usdt-generator/',
   head: [
     ['link', { rel: 'shortcut icon', href: '/favicon.ico' }],
