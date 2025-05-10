@@ -1,4 +1,7 @@
-require('chai/register-should');
+// Import chai
+const chai = require('chai');
+chai.should();
+
 require('@nomiclabs/hardhat-ganache');
 require('@nomiclabs/hardhat-truffle5');
 require('solidity-coverage');
